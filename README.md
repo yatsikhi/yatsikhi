@@ -1,5 +1,5 @@
 <h1 style="color: Aqua; "> about me 🐋</code> <h1>
-  ![Alt Text](https://i.pinimg.com/originals/81/6b/f0/816bf03234d66f330997c0283d03f518.gif)
+![Alt Text](https://i.pinimg.com/originals/81/6b/f0/816bf03234d66f330997c0283d03f518.gif)
 <p style="color: LightBlue;"> 
  
 
