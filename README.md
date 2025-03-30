@@ -1,8 +1,13 @@
 <div align="left">
   
 
-  <h2>Welcome to My GitHub Profile!</h2>
+  <h2>𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝕸𝖞 𝕲𝖎𝖙𝕳𝖚𝖇 𝕻𝖗𝖔𝖋𝖎𝖑𝖊!</h2>
+  <h3>⬛𝖙𝖔𝖔𝖑𝖘</h3>
+  <hr>
 
+
+  
+ 
   <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java logo" title="Java" style="filter: grayscale(100%) invert(1);" />
     <img width="12" />
@@ -18,7 +23,8 @@
   </div>
 
   <br>
-  
+  <h3>⬛𝖘𝖔𝖈𝖎𝖆𝖑 𝖒𝖊𝖉𝖎𝖆</h3>
+  <hr>
   <div align="left">
     <a href="https://www.instagram.com/yatsikhi/" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-white?logo=instagram&logoColor=black&style=for-the-badge" height="35" alt="Instagram logo">
@@ -32,11 +38,21 @@
   </div>
 
   <br>
-
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yatsikhi&show_icons=true&theme=swift" alt="yatsikhi GitHub stats" />
-
-  <img align="left" height="380" src="https://i.pinimg.com/originals/38/a5/b6/38a5b63d4e542bee4c1ca6eaef65cf70.gif" alt="Animated GIF" />
+ <div align="left">
+  <h3>⬛𝖕𝖗𝖔𝖌𝖗𝖊𝖘𝖘</h3><hr>
+  <img height="230" src="https://github-readme-stats.vercel.app/api?username=yatsikhi&show_icons=true&theme=swift" alt="yatsikhi GitHub stats"/>
+   <h3>⬛𝖒𝖚𝖘𝖎𝖈</h3>
+   <hr>
+   
+  <h3>╔═══╗ ♪ <br>
+      ║███║ ♫ <br>
+      ║ (●) ♫  <br>
+      ╚═══╝♪♪</h3>
+  <h3>⬛𝖆𝖗𝖙</h3><hr>
   
+  <img height="300" src="https://i.pinimg.com/originals/38/a5/b6/38a5b63d4e542bee4c1ca6eaef65cf70.gif" alt="Animated GIF" />
+</div>
+   </a>
 
 </div>
 
