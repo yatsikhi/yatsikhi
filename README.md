@@ -53,12 +53,12 @@
  <table>
   <tr>
     <td>
-      <img height="300" src="https://i.pinimg.com/originals/38/a5/b6/38a5b63d4e542bee4c1ca6eaef65cf70.gif" alt="Animated GIF" />
+      <img height="300" src="https://i.pinimg.com/originals/53/79/90/5379909d43dbfdeaf85bcbd969d54cab.gif" alt="Animated GIF" />
     </td>
     <td>
       <h3>    ❝ В этом мире нет ничего важнее победы, и до тех пор,<br> пока ты остаешься победителем, остальное неважно...<br> Такое фундаментальное мышление – это то, <br>что я не смогу изменить в себе до самой смерти. ❞
            <br  > <h3 align="right"> Киётака Аянокоджи</h3> 
-
+              
 
 </h3>
     </td>
