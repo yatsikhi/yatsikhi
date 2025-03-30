@@ -43,10 +43,10 @@
   <img height="230" src="https://github-readme-stats.vercel.app/api?username=yatsikhi&show_icons=true&theme=swift" alt="yatsikhi GitHub stats"/>
    <h3>⬛𝖒𝖚𝖘𝖎𝖈</h3>
    <hr>
-   <a href="https://vk.com/music/playlist/420169776_94">
+   <a href="https://vk.com/music/playlist/420169776_94"> ♪ ♪ ♬ ♩ ♪ ♬ ♬ ♫ ♫</a>
   <h3>╔═══╗ ♪ <br>
       ║███║ ♫ <br> 
-      ║ (●) ♫  <br>
+      ║ (●) ♫  <br> 
       ╚═══╝♪♪</h3>
      </a>
   <h3>⬛𝖆𝖗𝖙</h3><hr>
