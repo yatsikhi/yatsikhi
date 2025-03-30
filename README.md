@@ -21,19 +21,15 @@
 
   <div align="center">
     <a href="https://www.instagram.com/yatsikhi/" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
+      <img src="https://img.shields.io/badge/Instagram-black?logo=instagram&logoColor=white&style=for-the-badge" height="35" alt="Instagram logo" />
     </a>
     <a href="https://www.twitch.tv/yatsikhi" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitch logo" />
+      <img src="https://img.shields.io/badge/Twitch-black?logo=twitch&logoColor=white&style=for-the-badge" height="35" alt="Twitch logo" />
     </a>
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord logo" />
+    <img src="https://img.shields.io/badge/Discord-black?logo=discord&logoColor=white&style=for-the-badge" height="35" alt="Discord logo" />
   </div>
 
   <br>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=yatsikhi&show_icons=true&theme=radical" alt="yatsikhi GitHub stats" />
-</div>
-
 
   <img src="https://github-readme-stats.vercel.app/api?username=yatsikhi&show_icons=true&theme=swift" alt="yatsikhi GitHub stats" />
 </div>
