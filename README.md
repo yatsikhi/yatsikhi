@@ -1,38 +1,42 @@
+<div align="center">
+  <img align="right" height="150" src="https://i.pinimg.com/originals/38/a5/b6/38a5b63d4e542bee4c1ca6eaef65cf70.gif" alt="Animated GIF" />
 
+  <h2>Welcome to My GitHub Profile!</h2>
 
-###
+  <div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java logo" title="Java" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo" title="Git" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux logo" title="Linux" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="30" alt="Firefox logo" title="Firefox" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL logo" title="PostgreSQL" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker logo" title="Docker" />
+  </div>
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/38/a5/b6/38a5b63d4e542bee4c1ca6eaef65cf70.gif"  />
+  <br>
 
-###
+  <div align="center">
+    <a href="https://www.instagram.com/yatsikhi/" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
+    </a>
+    <a href="https://www.twitch.tv/yatsikhi" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitch logo" />
+    </a>
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord logo" />
+  </div>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="30" alt="firefox logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <br>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=yatsikhi&show_icons=true&theme=radical" alt="yatsikhi GitHub stats" />
 </div>
 
-###
 
-<div align="left">
-  <a href="https://www.instagram.com/yatsikhi/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.twitch.tv/yatsikhi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
- <img src= https://github-readme-stats.vercel.app/api?username=yatsikhi&show_icons=true&theme=swift />
+  <img src="https://github-readme-stats.vercel.app/api?username=yatsikhi&show_icons=true&theme=swift" alt="yatsikhi GitHub stats" />
 </div>
-
 
 
 ###
