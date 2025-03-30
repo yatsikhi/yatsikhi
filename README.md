@@ -2,7 +2,7 @@
   
 
   <h2>Welcome to My GitHub Profile!</h2>
-<img align="right" height="300" src="https://i.pinimg.com/originals/38/a5/b6/38a5b63d4e542bee4c1ca6eaef65cf70.gif" alt="Animated GIF" />
+<img align="left" height="300" src="https://i.pinimg.com/originals/38/a5/b6/38a5b63d4e542bee4c1ca6eaef65cf70.gif" alt="Animated GIF" />
   <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java logo" title="Java" style="filter: grayscale(100%) invert(1);" />
     <img width="12" />
