@@ -41,14 +41,7 @@
  <div align="left">
   <h3>⬛𝖕𝖗𝖔𝖌𝖗𝖊𝖘𝖘</h3><hr>
   <img height="230" src="https://github-readme-stats.vercel.app/api?username=yatsikhi&show_icons=true&theme=swift" alt="yatsikhi GitHub stats"/>
-   <h3>⬛𝖒𝖚𝖘𝖎𝖈</h3>
-   <hr>
-   <a href="https://vk.com/music/playlist/420169776_94"> ♪ ♪ ♬ ♩ ♪ ♬ ♬ ♫ ♫</a>
-  <h3>╔═══╗ ♪ <br>
-      ║███║ ♫ <br> 
-      ║ (●) ♫  <br> 
-      ╚═══╝♪♪</h3>
-     </a>
+   
   <h3>⬛𝖆𝖗𝖙</h3><hr>
  <table>
   <tr>
@@ -64,7 +57,15 @@
     </td>
   </tr>
 </table>
-
+<h3>⬛𝖒𝖚𝖘𝖎𝖈</h3>
+   <hr>
+   <a href="https://vk.com/music/playlist/420169776_94"> ♪ ♪ ♬ ♩ ♪ ♬ ♬ ♫ ♫</a>
+  <h3>╔═══╗ ♪ <br>
+      ║███║ ♫ <br> 
+      ║ (●) ♫  <br> 
+      ╚═══╝♪♪</h3>
+     </a>
+  <h3>⬛𝖆𝖗𝖙</h3><hr>
 </div>
    </a>
 
