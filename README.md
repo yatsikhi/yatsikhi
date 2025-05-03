@@ -23,7 +23,7 @@
   </div>
 
   <br>
-  <h3>⬛𝖘𝖔𝖈𝖎𝖆𝖑 𝖒𝖊𝖉𝖎𝖆</h3>
+<!--   <h3>⬛𝖘𝖔𝖈𝖎𝖆𝖑 𝖒𝖊𝖉𝖎𝖆</h3>
   <hr>
   <div align="left">
     <a href="https://www.instagram.com/yatsikhi/" target="_blank">
@@ -35,22 +35,22 @@
     <a href="https://discord.com/users/yatsikhi" target="_blank">
       <img src="https://img.shields.io/badge/Discord-white?logo=discord&logoColor=black&style=for-the-badge" height="35" alt="Discord logo"/>
     </a>
-  </div>
+  </div> -->
 
   <br>
  <div align="left">
   <h3>⬛𝖕𝖗𝖔𝖌𝖗𝖊𝖘𝖘</h3><hr>
-  <img height="230" src="https://github-readme-stats.vercel.app/api?username=yatsikhi&show_icons=true&theme=swift" alt="yatsikhi GitHub stats"/>
+  <img height="230" src="https://github-readme-stats.vercel.app/api?username=yatsikhi&show_icons=true&shadow_red" alt="yatsikhi GitHub stats"/>
    
   <h3>⬛𝖆𝖗𝖙</h3><hr>
  <table>
   <tr>
     <td>
-      <img height="300" src="https://i.pinimg.com/originals/53/79/90/5379909d43dbfdeaf85bcbd969d54cab.gif" alt="Animated GIF" />
+      <img height="300" src="https://i.pinimg.com/originals/f7/3a/c9/f73ac964df9ea85a189b52068a1eda7a.gif" alt="Animated GIF" />
     </td>
     <td>
-      <h3>    ❝ В этом мире нет ничего важнее победы, и до тех пор,<br> пока ты остаешься победителем, остальное неважно...<br> Такое фундаментальное мышление – это то, <br>что я не смогу изменить в себе до самой смерти. ❞
-           <br  > <h3 align="right"> Киётака Аянокоджи</h3> 
+      <h3>    ❝Это место — наша могила,<br> но и ты можешь здесь отдохнуть,<br> если хочешь... ❞
+           <br  > <h3 align="right"> Принц Лотрик </h3> 
               
 
 </h3>
