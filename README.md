@@ -40,7 +40,7 @@
   <br>
  <div align="left">
   <h3>⬛𝖕𝖗𝖔𝖌𝖗𝖊𝖘𝖘</h3><hr>
-  <img height="230" src="https://github-readme-stats.vercel.app/api?username=yatsikhi&show_icons=true&shadow_red" alt="yatsikhi GitHub stats"/>
+  <img height="230" src="https://github-readme-stats.vercel.app/api?username=yatsikhi&show_icons=true&theme=shadow_red" alt="yatsikhi GitHub stats"/>
    
   <h3>⬛𝖆𝖗𝖙</h3><hr>
  <table>
