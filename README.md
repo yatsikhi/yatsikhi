@@ -2,6 +2,7 @@
   
 
   <h2>𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝕸𝖞 𝕲𝖎𝖙𝕳𝖚𝖇 𝕻𝖗𝖔𝖋𝖎𝖑𝖊!</h2>
+  <p>I mainly study Java and frameworks for it: Spring Boot, javaFX.<br> I know a little C++ and C#. <br>I know git commands and am interested in various Linux distributions.</p>
   <h3>⬛𝖙𝖔𝖔𝖑𝖘</h3>
   <hr>
 
